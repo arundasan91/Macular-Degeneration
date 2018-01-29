@@ -1,1 +1,17 @@
+Published Research and web articles related to Age-Related Macular Degeneration, Retinopathy and other Retinal Fundus Diseases.
 
+1. [Accuracy of deep learning, a machine-learning technology, using ultra–wide-field fundus ophthalmoscopy for detecting rhegmatogenous retinal detachment.](https://www.nature.com/articles/s41598-017-09891-x)
+2. [An ensemble deep learning based approach for red lesion detection in fundus images](https://www.sciencedirect.com/science/article/pii/S0169260717307897)
+3. [Multi-categorical deep learning neural network to classify retinal images: A pilot study employing small database](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187336)
+4. [Evaluation of automated drusen detection system for fundus photographs of patients with age-related macular degeneration](http://iovs.arvojournals.org/article.aspx?articleid=2560240&resultClick=1)
+5. [Deep image mining for diabetic retinopathy screening](http://www.medicalimageanalysisjournal.com/article/S1361-8415(17)30066-X/abstract)
+6. [Detection of age-related macular degeneration via deep learning](http://ieeexplore.ieee.org/abstract/document/7493240/)
+7. [Secondary analyses of the effects of lutein/zeaxanthin on age-related macular degeneration progression: AREDS2 report No. 3.](https://www.ncbi.nlm.nih.gov/pubmed/24310343)
+8. [Comparing humans and deep learning performance for grading AMD: A study in using universal deep features and transfer learning for automated AMD analysis](https://www.sciencedirect.com/science/article/pii/S0010482517300240)
+9. [American Academy of Ophthalmology Retina/Vitreous Panel. Preferred Practice Pattern Guidelines. Age-Related Macular Degeneration.](https://www.aao.org/ppp)
+10. [Prevalence of age-related macular degeneration in the United States](https://jamanetwork.com/data/journals/OPHTH/9922/EEB30090.pdf)
+11. [Facts About Age-Related Macular Degeneration](https://nei.nih.gov/health/maculardegen/armd_facts)
+12. [Severity of age-related macular degeneration in 1 eye and the incidence and progression of age-related macular degeneration in the fellow eye: the Beaver Dam Eye Study](https://jamanetwork.com/journals/jamaophthalmology/fullarticle/1913631?=)
+13. [A randomized, placebo-controlled, clinical trial of high-dose supplementation with vitamins C and E, beta carotene, and zinc for age-related macular degeneration and vision loss: AREDS report no. 8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1462955/)
+14. [The Age-Related Eye Disease Study severity scale for age-related macular degeneration: AREDS report no. 17](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472813/)
+15. [Grading of age-related macular degeneration: comparison between color fundus photography, fluorescein angiography, and spectral domain optical coherence tomography](http://downloads.hindawi.com/journals/jop/2013/385915.pdf)
