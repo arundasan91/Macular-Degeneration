@@ -65,6 +65,10 @@ or
 # NIH AREDS Labelling Scheme
 Ref: [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/GetPdf.cgi?id=phd001138)
 
+AREDS participants who were not assigned a final AMD phenotype of NV AMD, GA, both NV AMD
+and GA, or Questionable Advanced AMD were categorized by the AREDS Coordinating Center using the
+algorithm described below: 
+
 - **Large Drusen**: Large drusen (≥ 125 microns in diameter) in at least one eye at the last study visit
 and in at least one other study visit (in the same eye).
 - **Large Drusen Questionable 1**: Large drusen in at least one eye at 2 or more visits (other than the
