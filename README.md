@@ -1,3 +1,7 @@
+[Distributed machine learning cloud teleophthalmology IoT for predicting AMD disease progression](https://www.sciencedirect.com/science/article/pii/S0167739X18317941)
+
+Arun Das, Paul Rad, Kim-Kwang Raymond Choo, Babak Nouhi, Jonathan Lish, James Martel
+
 # Macular-Degeneration
 Age-Related Macular Degeneration (AMD) Research using AREDS dataset provided by National Institute of Health (NIH).
 
